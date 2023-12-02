@@ -1,0 +1,268 @@
+@media (max-width: 575.98px) {
+
+    .heading_box{
+        text-align: center;
+    }
+
+    .heading_box h3 {
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+
+    .paragraph {
+        text-align: center;
+    }
+    /* ===common css end === */
+
+    /* ===navbar part start === */
+    #navbar .toggle_icon i{
+        color: white;
+    }
+
+    #navbar .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #navbar .navbar-toggler {
+        border: none;
+    }
+    #navbar ul li a {
+        padding: 7px 30px;
+    }
+
+    /* #navbar.sticky {
+        padding-bottom: 10px;
+    } */
+
+    #navbar #navbarScroll .navbar-nav-scroll {
+        --bs-scroll-height: 228px !important;
+    }
+
+    #navbar .button a {
+        margin-bottom: 10px;
+    }
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    #banner {
+        padding: 145px 0 100px 0;
+    }
+
+    #banner .banner_btn a {
+        font-size: 14px;
+        padding: 6px 10px;
+    }
+
+    #banner h1 {
+        font-size: 40px;
+    }
+
+    #banner form {
+        display: block;
+        margin-top: 48px;
+        text-align: center;
+    }
+
+    #banner button {
+        width: auto;
+        font-size: 14px;
+        border-radius: 15px;
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        -ms-border-radius: 15px;
+        -o-border-radius: 15px;
+        padding: 15px 20px;
+        margin-top: 10px;
+}
+
+#banner input {
+    width: auto;
+    height: 55px;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+}
+
+#banner .cloud img {
+	display: none;
+}
+
+#banner .logo_slider {
+	margin-top: 0;
+	background: white;
+}
+#banner .content {
+	margin-bottom: 50px;
+}
+    /* ===banner part end === */
+
+    /* ===service part start === */
+
+    #service {
+        padding-bottom: 65px;
+    }
+    #service .left p {
+        margin: 0 0 83px 0;
+        text-align: center;
+    }
+
+    #service .right .box {
+        padding: 12px;
+        gap: 15px;
+    }
+
+    #service .left .img img {
+        margin-bottom: 50px;
+    }
+
+    #service .ser_heading {
+        font-size: 22px;
+    }
+
+    #service .right .box .icon {
+        height: 95px;
+        width: 95px;
+        line-height: 95px;
+    }
+    /* ===service part end === */
+
+    /* ===get more part start === */
+    #get_more {
+        padding-bottom: 40px;
+    }
+
+    #get_more .img img {
+        margin-top: 40px;
+    }
+    /* ===get more part end === */
+
+    /* ===process part start === */
+
+    #process {
+        padding: 50px 0 20px 0;
+    } 
+    #process ul li button p {
+        font-size: 14px;
+    }
+
+    #process ul li button {
+        padding: 8px 20px;
+    }
+
+    #process .details .img img {
+        margin-bottom: 40px;
+    }
+
+    #process .details h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+    #process .button {
+        text-align: center;
+    }
+
+    #process .details .button a {
+        font-size: 16px;
+        padding: 17px 25px;
+    }
+    /* ===process part end === */
+
+    /* ===case part start === */
+
+    #case {
+        padding: 50px 0 50px 0;
+    }
+
+    #case .button a {
+        padding: 10px 16px;
+        font-size: 16px;
+    }
+    /* ===case part end === */
+
+    /* ===pricing part start === */
+    #pricing {
+        padding-bottom: 35px;
+    }
+    #pricing h5 {
+        margin-bottom: 18px;
+        text-align: center;
+    }
+
+    #pricing ul li {
+        margin: 15px 0;
+    }
+
+    #pricing article{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .btm_rectengle {
+        padding: 15px 0;
+        width: 80%;
+        margin: 0 auto;
+    }
+    /* ===pricing part end === */
+
+    /* ===analysis part start === */
+    #analysis {
+        padding: 70px 0;
+    }
+
+    #analysis form {
+        display: block;
+        margin-top: 48px;
+        text-align: center;
+    }
+
+    #analysis button {
+        width: auto;
+        font-size: 14px;
+        border-radius: 15px;
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        -ms-border-radius: 15px;
+        -o-border-radius: 15px;
+        padding: 15px 20px;
+        margin-top: 10px;
+}
+
+#analysis input {
+    width: auto;
+    height: 55px;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+}
+    /* ===analysis part end === */
+
+    /* ===footer part start === */
+    #footer {
+        padding-top: 75px;
+        text-align: center;
+    }
+
+    #footer h4 {
+        margin-bottom: 25px;
+        margin-top: 40px;
+    }
+
+    #footer ul li {
+        margin: 20px 0;
+    }
+
+    .footer_bootm {
+        display: block;
+        text-align: center;
+    }
+
+    .footer_bootm .right {
+        gap: 35px;
+        justify-content: center;
+    }
+    /* ===footer part end === */
+}
